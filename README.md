@@ -1,15 +1,53 @@
-# Jogo da Memória Cuphead
+# 🎮 Jogo da Memória - Cuphead
 
-Projeto de estudo para desenvolvimento web com Javascript puro...
+Este é um projeto de estudo desenvolvido para aprimorar conhecimentos em desenvolvimento web utilizando JavaScript puro, HTML e CSS.
 
-Jogo da memória desenvolvido em Javascript, HTML e CSS. O tema do jogo foi inspirado na animação Cuphead, onde toda identidade visual, background e cartas foram pensadas
-nos personagens da animação.
+O tema do jogo foi inspirado no universo e na identidade visual da animação **Cuphead**, trazendo personagens, fundos e efeitos sonoros característicos diretamente para o navegador.
 
-O jogo contém um ícone (I) com instruções sobre o jogo. O jogador terá 60 segundos para virar 10 pares de cartas, e se conseguir as 20 cartas a tempo será o vencedor.
-Caso o par não seja formado a carta será desvirada automaticamente para que o jogador possa escolher outro par.
-Se o jogador não conseguir formar todos os pares a tempo, o jogo encerrará.
+---
 
-O jogo possui alguns recursos interessantes como: Efeitos sonoros, Contagem regressiva, Mensagens para quando houver um vencedor ou perdedor.
-Um botão para informações, iniciar a partida, e nova partida.
+## 🚀 Como o projeto funciona
 
-![img-tela-jodoDaMemoria](https://user-images.githubusercontent.com/81998569/236643388-242567ee-da8c-47f8-af2b-b7215f4871f9.jpg)
+O objetivo do jogo é encontrar todos os pares de cartas antes que o tempo se esgote:
+
+- **Início:** O jogador pode clicar em **"Iniciar Partida"** na tela inicial. Um botão de informações **(I)** também está disponível para apresentar as instruções do jogo.
+- **Regras:** O jogador tem exatamente **60 segundos** para encontrar **10 pares de cartas** (totalizando 20 cartas).
+- **Mecânica:** Ao clicar em uma carta, ela é revelada. Se a próxima carta escolhida for igual, o par é formado e as cartas continuam viradas. Caso contrário, as cartas são desviradas automaticamente após um breve momento.
+- **Recursos inclusos:** \* Efeitos sonoros temáticos.
+  - Contagem regressiva de tempo.
+  - Telas interativas de **Vitória ("Parabéns!")** ou **Derrota ("Tempo Esgotado!")** com a opção de iniciar uma **"Nova Partida"**.
+
+---
+
+## 📷 Demonstração do Projeto
+
+Aqui estão algumas capturas de tela do jogo em funcionamento:
+
+![Aqui estão algumas capturas de tela do jogo em funcionamento](jogo-da-memoria-cuphead.jpg)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+---
+
+## 🔗 Links Úteis
+
+- **Visualizar o projeto online:** [Clique aqui para jogar](https://lucianosergiodasilva.github.io/jogodamemoriacuphead)
+
+---
+
+### 📥 Clonando o projeto
+
+Você pode clonar este repositório para testar em sua máquina:
+
+```bash
+   git clone https://github.com/lucianosergiodasilva/jogodamemoriacuphead.git
+
+```
