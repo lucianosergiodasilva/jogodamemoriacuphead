@@ -1,5 +1,6 @@
 # Jogo da Memória Cuphead
-Projeto de estudo para desenvolvimento web com Javascript puro.
+
+Projeto de estudo para desenvolvimento web com Javascript puro...
 
 Jogo da memória desenvolvido em Javascript, HTML e CSS. O tema do jogo foi inspirado na animação Cuphead, onde toda identidade visual, background e cartas foram pensadas
 nos personagens da animação.
